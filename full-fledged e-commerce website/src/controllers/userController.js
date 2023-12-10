@@ -1,0 +1,3 @@
+exports.userList=(req,res)=>{
+    
+}
